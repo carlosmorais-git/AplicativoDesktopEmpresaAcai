@@ -1,0 +1,49 @@
+Codigo,Categoria,Descrição,Natureza,Quantidade,Base,Preço,Medida
+1,GELADOS,Açai,Produto Final,40136,50066,27.8,ml
+2,GELADOS,Picolé,Produto Final,435,887,1.0,uni
+3,GELADOS,Sorvete,Produto Final,50469,70000,27.8,ml
+4,GELADOS,Milk - Shake,Produto Final,61263,70000,22.0,ml
+5,GELADOS,Sorvete Pote 1L,Produto Final,8,20,15.0,uni
+6,GELADOS,Sorvete Pote 220Ml,Produto Final,9,10,5.0,uni
+7,GELADOS,Sorvete Pote 140Ml,Produto Final,7,10,3.0,uni
+8,GELADOS,Sundae,Produto Final,0,10,5.0,uni
+9,GELADOS,Açai Pote 1L,Produto Final,0,5,22.0,uni
+10,GELADOS,Picolé Brigadeiro,Produto Final,47,50,4.0,uni
+11,ACRÉSCIMO,Nutella,Insumo,0,0,6.0,uni
+12,ACRÉSCIMO,Morango,Insumo,0,0,5.0,uni
+13,ACRÉSCIMO,Banana,Insumo,0,0,2.0,uni
+14,TAMANHO,250Ml,Insumo,0,0,8.0,uni
+15,TAMANHO MK,300Ml,Insumo,0,0,8.0,uni
+16,TAMANHO,330Ml,Insumo,0,0,10.0,uni
+17,TAMANHO,440Ml,Insumo,0,0,12.0,uni
+18,TAMANHO MK,500Ml,Insumo,0,0,10.0,uni
+19,TAMANHO,550Ml,Insumo,0,0,16.0,uni
+20,TAMANHO MK,700Ml,Insumo,0,0,14.0,uni
+21,TAMANHO,770Ml,Insumo,0,0,22.0,uni
+22,COMPLEMENTOS,Amendoim,Insumo,0,0,0.0,uni
+23,COMPLEMENTOS,Confete,Insumo,0,0,0.0,uni
+24,COMPLEMENTOS,Chococo Power,Insumo,0,0,0.0,uni
+25,COMPLEMENTOS,Chocobool,Insumo,0,0,0.0,uni
+26,COMPLEMENTOS,Granola,Insumo,0,0,0.0,uni
+27,COMPLEMENTOS,Granulado Escuro,Insumo,0,0,0.0,uni
+28,COMPLEMENTOS,Granulado Colorido,Insumo,0,0,0.0,uni
+29,COMPLEMENTOS,Leite Em Pó,Insumo,0,0,0.0,uni
+30,COMPLEMENTOS,Leite Condensado,Insumo,0,0,0.0,uni
+31,COMPLEMENTOS,Sucrilhos,Insumo,0,0,0.0,uni
+32,COMPLEMENTOS,Sucrilhos Colorido,Insumo,0,0,0.0,uni
+33,COMPLEMENTOS,Jujuba,Insumo,0,0,0.0,uni
+34,COMPLEMENTOS,Paçoca,Insumo,0,0,0.0,uni
+35,COBERTURAS,Açai,Insumo,0,0,0.0,uni
+36,COBERTURAS,Banana Carametizada,Insumo,0,0,0.0,uni
+37,COBERTURAS,Chocolate,Insumo,0,0,0.0,uni
+38,COBERTURAS,Morango,Insumo,0,0,0.0,uni
+39,COBERTURAS,Menta,Insumo,0,0,0.0,uni
+40,COBERTURAS,Uva,Insumo,0,0,0.0,uni
+41,COBERTURAS,Leite Condensado,Insumo,0,0,0.0,uni
+45,SABORES,Morango,Insumo,0,0,0.0,uni
+46,SABORES,Baunilha,Insumo,0,0,0.0,uni
+47,SABORES,Ovomaltine,Insumo,0,0,0.0,uni
+48,GELADOS,Casquinha,Produto Final,13,30,2.0,uni
+49,TAMANHO,Marmita,Insumo,0,0,14.0,uni
+50,SABORES,Coco,Insumo,0,0,0.0,uni
+51,SABORES,Baunilha Com Chocolate,Insumo,0,0,0.0,uni

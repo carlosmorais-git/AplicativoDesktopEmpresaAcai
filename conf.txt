@@ -1,0 +1,45 @@
+----------RODAR PROJETO-----------------------
+
+C:\Users\carlo\Desktop\Projeto_Acai.com
+
+.\meu_ambiente\Scripts\activate
+
+python sistema_Acai_com.py
+
+
+----------PY INSTALLER------------------------
+
+pyinstaller -w sistema_Acai_com.py >> Padrao
+
+pyinstaller -w --onefile sistema_Acai_com.py >> Mas compacto
+
+pyinstaller --onefile sistema_Acai_com.py >> Unico executavel
+
+pyinstaller -w --icon=C:\caminho icone\ sistema_Acai_com.py >> instale com icone
+
+
+
+
+----------CALENDARIO
+
+1 ---------- pyinstaller --hidden-import=babel.numbers sistema_Acai_com.py
+
+
+2 ---------- a = Analysis(
+    ['sistema_Acai_com.py'],
+    pathex=[r'C:\\Users\\carlo\\Desktop\\Projeto Acai.com\\sistema_Acai_com'],  # Caminho relativo ao diretório do script
+    binaries=[],
+    datas=[],
+    hiddenimports=['babel.numbers'],  # Para garantir que o babel.numbers seja incluído
+    hookspath=[],
+    runtime_hooks=[],
+    excludes=[],
+    noarchive=False,
+)
+
+3 -------------pyinstaller sistema_Acai_com.spec
+
+--------------------------------------------------------
+
+
+

@@ -1,0 +1,8 @@
+ATENÇÃO: SIGA ESTAS ETAPAS ANTES DE PROSSEGUIR
+
+1. Use o "Instalador" para instalar o programa ou realize essas etapas durante a instalação.
+2. Copie a pasta "_internal".
+3. Clique com o botão direito no atalho do sistema recém-criado.
+4. Selecione a opção "Abrir local do arquivo".
+5. Cole a pasta "_internal" no diretório que foi aberto.
+6. Finalize a instalação.
