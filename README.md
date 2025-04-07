@@ -1,0 +1,1 @@
+# AplicativoDesktopEmpresaA-ai-
